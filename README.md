@@ -1,2 +1,2 @@
 # news_app
-news_app for jinong
+news app for jinong
